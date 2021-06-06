@@ -21,5 +21,5 @@ To fix a bug or enhance an existing module, follow these steps:
 .Push to the branch (git push origin improve-feature)
 .Create a Pull Request
 # Demo
-Here is a working live demo :
+Here is a working live demo : tito-74.github.io/favorite-band/
 
