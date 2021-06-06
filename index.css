@@ -20,7 +20,7 @@ h4{
   text-align: center;
 }
 ol{
-  border: 1px solid brown;
+  border: 2px solid rgb(220, 166, 245);
   text-align: center;
   width: 300px;
   height: 250px;
@@ -53,7 +53,7 @@ ol{
 
 }
 p{
-  font-weight:20%;
+  font-size:120%;
 }
 a:link{
   background-color: rgb(148, 151, 148);
